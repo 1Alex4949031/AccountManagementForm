@@ -1,10 +1,9 @@
 <script setup lang="ts">
+import AccountForm from "./components/AccountForm.vue";
 </script>
 
 <template>
-  <h1>
-    Initial commit
-  </h1>
+  <AccountForm/>
 </template>
 
 <style scoped>
